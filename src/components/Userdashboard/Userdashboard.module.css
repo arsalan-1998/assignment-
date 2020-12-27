@@ -1,0 +1,8 @@
+
+.dashboard {
+    width: calc(100vw - 70%);
+    text-align: center;
+    margin-left: 35%;
+    padding: 8px;
+    background-color: #fcfcfc;
+}
